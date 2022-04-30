@@ -13,4 +13,4 @@ But be careful, the faster you go the faster the projectiles come at you!
   - `8 / num 8` to change the direction of your ship.
 
 
- ###### Filip Zygmuntowicz 2021 a project from my uni to learn pygame.
+ ###### Filip Zygmuntowicz 2021 a project from my uni to learn pygame
