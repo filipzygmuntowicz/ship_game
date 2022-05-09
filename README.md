@@ -1,5 +1,5 @@
 # ship_game
-A simple game made in pygame. You steer a spaceship and avoid the projectiles. The goal of the game is to earn as many points as you can without dying, the faster your ships goes the more points you get.
+A simple game made in pygame. You steer a spaceship and avoid the projectiles. The goal of the game is to earn as many points as you can without dying, the faster your ship goes the more points you get.
 But be careful, the faster you go the faster the projectiles come at you!
 
 # CONTROLS:
